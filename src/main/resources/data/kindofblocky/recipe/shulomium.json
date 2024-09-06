@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "kindofblocky:shulomium_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "kindofblocky:shulomium"
+  }
+}

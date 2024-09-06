@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "kindofblocky:block/shulomium_ore_block"
+  }
+}

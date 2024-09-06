@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "kindofblocky:shulomium"
+    },
+    "W": {
+      "item": "minecraft:wheat"
+    },
+    "S": {
+      "item": "minecraft:salmon"
+    }
+  },
+  "pattern": [
+    "#W#",
+    "WSW",
+    "#W#"
+  ],
+  "result": {
+    "count": 1,
+    "id": "kindofblocky:bagel_with_lox"
+  }
+}

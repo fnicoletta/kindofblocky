@@ -1,0 +1,11 @@
+{
+  "item.kindofblocky.shulomium_ore": "Shulomium Ore",
+  "item.kindofblocky.shulomium": "Shulomium",
+  "item.kindofblocky.booty_blaster": "Booty Blaster",
+  "item.kindofblocky.bagel_with_lox": "Bagel with Lox",
+  "block.kindofblocky.shulomium_block": "Block of Shulomium",
+  "block.kindofblocky.shulomium_ore_block": "Block of Shulomium Ore",
+  "block.kindofblocky.deepslate_shulomium_ore_block": "Block of Deepslate Shulomium Ore",
+  "itemgroup.kindofblocky.shulomium_items": "Shulomium Items",
+  "itemgroup.kindofblocky.shulomium_blocks": "Shulomium Blocks"
+}

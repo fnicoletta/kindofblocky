@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "kindofblocky:shulomium"
+    },
+    "C": {
+      "item": "minecraft:copper_ingot"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    " #C",
+    "#D#",
+    "S# "
+  ],
+  "result": {
+    "count": 1,
+    "id": "kindofblocky:booty_blaster"
+  }
+}

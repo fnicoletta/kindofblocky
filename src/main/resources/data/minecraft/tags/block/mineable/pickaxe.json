@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "kindofblocky:shulomium_block",
+    "kindofblocky:shulomium_ore_block",
+    "kindofblocky:deepslate_shulomium_ore_block"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "kindofblocky:item/bagel_with_lox"
+  }
+}
