@@ -10,6 +10,7 @@ object KindOfBlocky : ModInitializer {
     const val MOD_ID: String = "kindofblocky"
     val logger = LoggerFactory.getLogger(MOD_ID)
 
+
     override fun onInitialize() {
         ModItems.registerModItems()
         ModBlocks.registerModBlocks()
